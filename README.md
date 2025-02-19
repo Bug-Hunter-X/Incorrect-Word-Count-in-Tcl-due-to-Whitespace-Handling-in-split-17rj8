@@ -1,0 +1,1 @@
+This repository contains a Tcl script that demonstrates an uncommon error related to the `split` command's handling of whitespace. The script is a simple word counter, but it produces incorrect results because it doesn't properly handle leading or trailing spaces.  The solution demonstrates how to correctly handle the whitespace to improve the accuracy of the word count.
